@@ -6,4 +6,4 @@
 Just add the files to wherever your nvim looks for $XDG_HOME
 
 - Windows: `%local%/nvim`
-- Linux: `~/.nvim`
+- Linux: `~/.config/nvim`
